@@ -3,4 +3,5 @@ langchain-community
 openai
 streamlit
 ipykernel
+google-generativeai
 python-dotenv
